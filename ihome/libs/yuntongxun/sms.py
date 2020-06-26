@@ -6,13 +6,13 @@ from CCPRestSDK import REST
 import ConfigParser
 
 # 主帐号
-accountSid= '8a216da87291bbcd0172a3713fb90a81'
+accountSid= ''
 
 # 主帐号Token
-accountToken= '3fcfe256d61c4927b28bf2c28a0e2ee9'
+accountToken= ''
 
 # 应用Id
-appId='8a216da87291bbcd0172a37140c40a88'
+appId=''
 
 # 请求地址，格式如下，不需要写http://
 serverIP='app.cloopen.com'
