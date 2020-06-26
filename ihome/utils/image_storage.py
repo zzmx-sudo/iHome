@@ -5,8 +5,8 @@
 from qiniu import Auth, put_data, etag
 import qiniu.config
 # 需要填写你的 Access Key 和 Secret Key
-access_key = 'NJdvO-R7rynNKMNcLOeVeUYoYICZB62skx3zmQAY'
-secret_key = 'rIc5i_aWbbKN6zPpiGG7lYgmpXRVbRJnRDksQos2'
+access_key = ''
+secret_key = ''
 
 def storage(file_data):
     """
